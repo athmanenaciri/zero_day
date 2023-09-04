@@ -1,0 +1,1 @@
+0x00-vagrant: Explore Vagrant and Ubuntu by SSHing into the Ubuntu VM and running the "uname" command. To complete this task, open your terminal, navigate to your Vagrant setup directory, SSH into your VM with vagrant ssh, and then run uname. Record the output of the uname command in a file named "0-hello_ubuntu" within this directory. 
